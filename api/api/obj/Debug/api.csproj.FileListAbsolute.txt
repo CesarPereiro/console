@@ -1,0 +1,12 @@
+G:\ZonaTrabajo\console\api\api\bin\Debug\api.exe.config
+G:\ZonaTrabajo\console\api\api\bin\Debug\api.exe
+G:\ZonaTrabajo\console\api\api\bin\Debug\api.pdb
+G:\ZonaTrabajo\console\api\api\obj\Debug\api.csprojAssemblyReference.cache
+G:\ZonaTrabajo\console\api\api\obj\Debug\api.csproj.CoreCompileInputs.cache
+G:\ZonaTrabajo\console\api\api\obj\Debug\api.exe
+G:\ZonaTrabajo\console\api\api\obj\Debug\api.pdb
+G:\ZonaTrabajo\console\api\api\bin\Debug\RestSharp.dll
+G:\ZonaTrabajo\console\api\api\bin\Debug\RestSharp.xml
+G:\ZonaTrabajo\console\api\api\obj\Debug\api.csproj.CopyComplete
+G:\ZonaTrabajo\console\api\api\bin\Debug\Newtonsoft.Json.dll
+G:\ZonaTrabajo\console\api\api\bin\Debug\Newtonsoft.Json.xml
